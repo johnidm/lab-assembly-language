@@ -1,5 +1,7 @@
-This repository has been setup to keep assembly code.
+This repository was create to keep some assembly code.
 
-That learned part is about compiler architecture.
+That is part of what I learned about compiler architecture.
 
-Sometimes I think I act as crazy coder and write assembly code.
+Sometimes I think I act as a crazy coder and write assembly code.
+
+![](crazy-coder.png)
